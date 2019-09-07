@@ -1,5 +1,6 @@
 Contributors to Adafruit-Git-Intro
 ==================================
+* Gilmore the Lion
 * Navyjetfixer _ Mark
 * MeToo
 * jwmeyer
